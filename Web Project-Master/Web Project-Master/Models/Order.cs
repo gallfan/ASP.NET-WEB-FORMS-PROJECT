@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Web;
+
+namespace Web_Project_Master.Models
+{
+    public class Order
+    {
+        [Key]
+        public int OrderId { get; set; }
+        public Customer CustomerId { get; set; }
+        public DateTime OrderDate { get; set; }
+        public DateTime DueDate { get; set; }
+        public decimal TotalDue { get; set; }
+    }
+}

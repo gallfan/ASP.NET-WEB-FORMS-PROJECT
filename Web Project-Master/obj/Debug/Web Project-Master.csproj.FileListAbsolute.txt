@@ -1,0 +1,18 @@
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\Web Project-Master.dll
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\Web Project-Master.pdb
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\obj\Debug\Web Project-Master.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\obj\Debug\Web Project-Master.dll
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\obj\Debug\Web Project-Master.pdb
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\EntityFramework.dll
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\EntityFramework.SqlServer.dll
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\EntityFramework.xml
+C:\Users\Francis\Desktop\SportsStore\Web Project-Master\Web Project-Master\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\Web Project-Master.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\Web Project-Master.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\EntityFramework.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\EntityFramework.xml
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\obj\Debug\Web Project-Master.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\obj\Debug\Web Project-Master.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project\Web Project-Master\obj\Debug\Web Project-Master.pdb
