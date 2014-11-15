@@ -1,0 +1,486 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="google-site-verification" content="bxiit3pBE4LcfQAdlk_YYBmxEe0PoUpqfHyrtKrpU_E" />
+  <meta name="google-site-verification" content="fgCwn7umXKRwTXefoToKQlnz1G2nbeIf_DWjosNSBfI" />
+	<title>X-Doria</title>
+	<meta name="description" content="X-Doria is a leading maker of fashion-forward accessories for mobile lifestyles. We offer iPhone cases, iPad cases, and Samsung cases and other smartphone accessories.">
+	<meta name="keywords" content="iPhone 4 cases, iPhone 5S cases, iPhone 5c cases, iPad Air cases,iPad mini cases, iPhone cases, iPad cases, iPod cases, X-Doria, xdoria, Apple accessories, Apple cases, iPad stylus, iPhone stylus, iPod stylus, screen protector, iPhone film, iPod film, iPad film, screen care, stylus pen, leather cases, felt cases, clear cases, iPhone bumpers, iPhone screen protector, iPod screen protector, iPad screen protector, tablet cases, smartphone cases, tablet stylus">
+	<meta name="author" content="http://wcst.com">
+	
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/base.css?3483 >
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/layout.css?3483>
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/modules.css?3483>
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/states.css?3483>
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/fonts.css?3483>
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/theme.css?3483>
+  <link rel="stylesheet" href=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/ie.css?3483>
+	
+	<style type="text/css">
+		html.wf-loading h2,
+		html.wf-loading h5,
+		html.wf-loading h4,
+		html.wf-loading .dd-link,
+		html.wf-loading .filter-toggle,
+		html.wf-loading .deal-banner,
+		html.wf-loading .secondary-nav a,
+		html.wf-loading .thumb-price,
+		html.wf-loading .section li a,
+		html.wf-loading li.first{
+		/* Hide the blog title and post titles while web fonts are loading */
+	    visibility: hidden;
+		}
+	</style>
+	
+  <script src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/modernizr-2.0.6.min.js?3483></script>
+    
+	
+	<script type="text/javascript" src="http://use.typekit.com/wgj8auu.js"></script>
+	<script type="text/javascript">try{ Typekit.load();}catch(e){}</script>
+    <script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "x-doria.myshopify.com";
+      Shopify.theme = {"name":"monochrome","id":2252592,"theme_store_id":null,"role":"main"};
+
+//]]>
+</script>
+
+
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["http://variantimages.shopifyapps.com/jquery-preload.js?shop=x-doria.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
+</script>
+<script id="__st">
+//<![CDATA[
+var __st={"a":1150272,"offset":-28800,"reqid":"ecb824bf-ba03-43eb-8ed4-6f3a223ae483","pageurl":"shop.x-doria.com/","u":"d1008d2338f6","p":"home"};
+//]]>
+</script>
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
+
+//]]>
+</script>
+<script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-50342427-1', 'auto', {'allowLinker': true});try{_gaq.push(['_setDomainName', '.x-doria.com']);}catch(e){};ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?e32ac395eff66a2da25bd5c4c8060a2e61a6df26"></script>
+<!-- Added by Lexity. DO NOT REMOVE/EDIT -->
+<meta name="google-site-verification" content="76vaBs0fhZO8N9xr9wwry6qN0UFMnDkgzVfZXB8wRcM" />
+<script type="text/javascript">
+(function (d, w) {
+  var x = d.getElementsByTagName('SCRIPT')[0], g = d.createElement('SCRIPT'); 
+  g.type = 'text/javascript';
+  g.async = true;
+  g.src = ('https:' == d.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  x.parentNode.insertBefore(g, x);
+}(document, window));
+</script>
+<!-- End of addition by Lexity. DO NOT REMOVE/EDIT -->
+<link rel="canonical" href="http://shop.x-doria.com/" />
+</head>
+
+
+			
+	   
+        
+
+<body class="marketing">
+
+    <div id="page">
+	
+		<header id="masthead">
+			<div class="masthead-content">
+				<div class="clearfix center-header row">
+                  <div class="three columns logo"><h1><a href="http://shop.x-doria.com">X-Doria</a></h1></div>
+					
+					<div id="global-nav" class="clearfix">
+					<ul id="product-nav" class="columns hrz-inline t-right">
+    				
+  <li class="dd-link"><a href="http://shop.x-doria.com/collections/all">Shop</a>
+							
+							<div class="dd-menu shop t-left">
+								<div class="six columns">
+									<ol>
+										<li class="first"><a href="http://shop.x-doria.com/collections/iphone">iPhone</a></li>
+                                      
+                                      <li><a href="http://shop.x-doria.com/collections/iphone-6">iPhone 6</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/iphone-6-plus">iPhone 6 Plus</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/iphone-5">iPhone 5s/5</a></li>
+                                        <li><a href="http://shop.x-doria.com/collections/iphone-5c">iPhone 5c</a></li>
+									</ol>
+									
+									<ol>
+										<li class="first"><a href="http://shop.x-doria.com/collections/ipad">iPad</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/ipad-air-2">iPad Air 2</a></li>  
+                                      <li><a href="http://shop.x-doria.com/collections/ipad-air">iPad Air</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/ipad-mini-3">iPad mini 3</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/ipad-mini-w-retina">iPad mini 2</a></li>
+                                        <li><a href="http://shop.x-doria.com/collections/ipad/ipad-mini">iPad mini</a></li>
+                                    </ol>
+									
+									
+                                  
+								</div>
+								
+								<div class="five offset-by-two columns">
+                                  <ol>
+									 <li class="first"><a href="http://shop.x-doria.com/pages/kidfit">KidFit - Wireless Fitness and Sleep Tracker</a></li>
+                                      <li><a href="http://shop.x-doria.com/pages/kidfit">KidFit</a></li>
+                      
+									</ol>  
+                                  <ol>
+										<li class="first"><a href="http://shop.x-doria.com/collections/galaxy">Galaxy</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/galaxy-s5">Galaxy S5</a></li>   
+                                      <li><a href="http://shop.x-doria.com/collections/galaxy-s4">Galaxy S4</a></li>
+									</ol>
+                                  <ol>
+										<li class="first"><a href="http://shop.x-doria.com/collections/chargers-cables">Chargers & Cables</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/chargers">Chargers</a></li>
+                                      <li><a href="http://shop.x-doria.com/collections/cables">Cables</a></li>
+									</ol>  
+                                     <ol>
+									  <li class="first"><a href="http://shop.x-doria.com/collections/screen-protection">Defense Screen Protection</a></li>
+ 
+    
+									</ol>
+                      				 
+                                    
+								</div>
+								
+							</div>
+							
+						</li>
+						
+  <li class="dd-link"><a href="http://shop.x-doria.com/pages/about-us">About</a>
+						</li>
+						
+					</ul>
+
+					<ul id="user-nav" class="columns hrz-inline t-right">
+						<li class="shopping-cart"><a href="http://shop.x-doria.com/cart">View Cart</a></li>
+						<li><a href="http://shop.x-doria.com/account">Account</a></li>
+                      <li><a href="http://shop.x-doria.com/pages/contact">Contact</a></li>
+						<li class="global-search">
+                          <form action="http://shop.x-doria.com/search" method="get">
+								<input type="search" name="q" id="search" placeholder="Search" /><input type="submit" id="submit" value="Search" /></li>
+							</form>
+					</ul>
+					
+				</div> <!-- main-nav -->
+				</div>
+			</div>
+		   
+           
+			
+		</header> <!-- masthead -->
+		
+<div id="main" role="main">
+		<div class="xd-featured-content">
+			<div class="xd-featured-carousel xd-carousel">
+				<ul class="hrz-float">
+					<!-- Homepage Slider
+                  <li data-copy="kidfit" data-pro-url="http://shop.x-doria.com/pages/kidfit" data-flipped="">
+                      <a href="http://shop.x-doria.com/pages/kidfit">
+                        <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/kidfit_doria_banner.jpg?3483 alt="" />
+                      </a>
+                    </li>-->
+                  	<li data-copy="iphone6" data-pro-url="http://shop.x-doria.com/collections/iphone-6-plus" data-flipped="">
+                      <a href="http://shop.x-doria.com/collections/iphone-6-plus">
+                        <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/iphone6_-banner.jpg?3483 alt="" />
+                      </a>
+                    </li>
+					<li data-copy="iphone6plus" data-pro-url="http://shop.x-doria.com/collections/iphone-6" data-flipped="">
+                      <a href="http://shop.x-doria.com/collections/iphone-6">
+                        <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/iphone6-banner.jpg?3483 alt="" />
+                      </a>
+                    </li>
+					
+					
+				</ul>
+				
+			</div>
+			<ul class="hrz-inline t-right right carousel-indicator"></ul>
+			
+			<div class="dec-triangle tri-teal" data-leftMax="-100" data-rightMax="-100">
+				<h2 class="feature-info"><a href="#"></a></h2>
+			</div>
+			
+			<div class="tri-down" style="background:none;"></div>
+		</div>	<!-- end xd-featured-content -->
+		
+		
+		<div class="row content">
+
+			<div class="image-grid">
+				
+				<div class="left-col">
+					<div>
+						<a href="">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/logo-light-475x475.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div class="clear">
+						<a href="http://shop.x-doria.com/products/engage-plus-for-iphone-6/427593">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/engage-plus-234x234.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div>
+						<a href="">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/Sm-Web-Pier-View_0.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div class="clear">
+						<a href="">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/SM-Web-Bluffs_0.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div>
+						<a href="http://shop.x-doria.com/products/scene-plus-for-iphone-6/427579">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/scene-plus-234x234.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+				</div>
+				<div class="right-col">
+										<div>
+						<a href="">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/Shipping_0.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div>
+						<a href="http://shop.x-doria.com/products/defense-720-for-iphone-6/427470">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/scene-grip-475x475.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div class="clear">
+						<a href="http://shop.x-doria.com/products/smartstyle-1/417945">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/Blast.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+										<div>
+						<a href="">
+                          <img src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/ScenePlus.jpg?3483 alt="" />
+						</a>
+					</div>
+					
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	</div><!-- ! end of #main -->
+
+        
+
+		
+		<footer>		
+			<div class="row footer-content">
+              <div class="four columns logo"><h1><a href="http://shop.x-doria.com">X-Doria</a></h1></div>
+				<div class="two columns">
+					<ul>
+                      <li class="first"><a href="http://shop.x-doria.com/collections/all">Shop</a></li>
+                      <li><a href="http://shop.x-doria.com/collections/iphone">iPhone</a></li>
+						<li><a href="http://shop.x-doria.com/collections/ipad">iPad</a></li>
+						<li><a href="http://shop.x-doria.com/collections/other">Other</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+                    <ul>
+                      <li class="first"><a class="f-nav" href="http://shop.x-doria.com/pages/about">About</a></li>
+                      <li><a class="f-nav" href="http://shop.x-doria.com/blogs/press">Press</a></li>
+          			</ul>
+				</div>
+				<div class="two columns">
+					<ul>
+						<li class="first"><a href="http://shop.x-doria.com/pages/contact">Contact</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/contact#/customer">Customer Service</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/contact#/contact">Contact Us</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/contact#/sell">Sell X-Doria Products</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/contact#/faq">FAQs</a></li>
+					</ul>
+				</div>
+				<div class="two columns">
+					<ul>
+                      <li class="first"><a href="http://shop.x-doria.com/pages/legal">Legal</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/legal#/warranty">Warranty</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/legal#/shipping">Shipping and Returns</a></li>
+						<li><a class="f-nav" href="http://shop.x-doria.com/pages/legal#/privacy">Legal, Privacy & Terms</a></li>
+					</ul>
+				</div>
+			</div>
+			
+			
+			<div class="legal-container">
+				<div class="row">
+					<div class="six columns legal-copy">
+						&copy; 2012 Doria International Inc. X-Doria is trademark of Doria.<br />All trademarks and trade names are property of their respective owners.
+					</div>
+					
+					<div class="three columns">
+						<p>Sign up for X-Doria Emails</p>
+						<form class="newsletter-form" action="http://x-doria.us4.list-manage.com/subscribe/post?u=515555ec75166ef0df9bc2da3&amp;id=5af482cff5" target="_blank" method="post">
+							<input type="text" name="EMAIL" id="newsletter" />
+							<input type="submit" value=" " class="newsletter-submit" id="newsletter-submit" />
+						</form>
+						
+						
+					</div>
+					<div class="three columns">
+						<p>X-Doria Everywhere</p>	
+						<ul class="hrz-inline footer-social">
+							<li class="fbook"><a target="_blank" href="http://facebook.com/XDoriaProducts"></a></li>
+							<li class="twitter"><a target="_blank" href="http://twitter.com/xDoriaproducts"></a></li>
+							<li class="mail"><a href="http://plus.google.com/" class="addthis_button_email" id="share-this-link"></a></li>
+						</ul>
+					</div>
+					
+				</div>
+			</div>
+		</footer>
+		
+	</div> <!--! end of #container -->
+	
+	
+	
+	<!--jQuery-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js"><\/script>')</script>
+	
+	
+	<!-- scripts -->
+   <!--  <script type src="http://social-referral.appspot.com/b/shopify/load/buttons.js?app_uuid=df864f80ea634e87&shop=x-doria.myshopify.com" ></script>-->
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/plugins.js?3483></script>
+<!-- 	<script defer src="/js/XD.all.min.js"></script> -->
+	
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.util.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.carousel.js?3483></script> 	
+    <!-- <script defer src="http://local.x-doria.com/js/xd/XD.prodviewer.js"></script>-->
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.prodviewer.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.tabs.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.scroll.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.menu.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.social.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.tooltips.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.colorpicker.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.overlay.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.scrollto.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.modal.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.normalizr.js?3483></script>
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.colorchooser.js?3483></script>
+    <!-- <script defer src="http://local.x-doria.com/js/xd/XD.colorchooser.js"></script> -->
+<script defer src=//cdn.shopify.com/s/files/1/0115/0272/t/1/assets/XD.core.js?3483></script>
+	
+	<!-- <script defer src="http://x-doria.com/js/object2vr_player.js"></script> -->
+    <!-- <script defer src="http://x-doria.com/js/skin.js"></script> -->
+    
+<!-- 	<script defer src="/js/XD.all.min.js"></script> -->
+	
+	<script type="text/javascript">
+adroll_adv_id = "ZQIWV7TBWVA6PA3MRKSGUL";
+adroll_pix_id = "F2HFVFHDRJCITFZSVFBFBA";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+	
+
+	<script type="text/javascript">
+	var addthis_config =
+	{
+	   ui_use_css: true
+	}
+	</script>
+	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+	
+		
+	
+	<!--[if lt IE 7 ]>
+		<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+		<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+	<![endif]-->
+	
+	</body>
+	</html>
+
+	

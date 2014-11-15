@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebProjectJFAD.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="Content/bootstrap2.css" media="screen" />
+    <link href="Content/sticky-footer-navbar.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.9.0.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <nav id="nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="Index.aspx">TOPMAN</a>
+                    </div>
+                    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+                        <ul runat="server" id="NavList" class="nav navbar-nav navbar-left">
+                            <li>
+                                <asp:HyperLink ID="hlIndex" runat="server" NavigateUrl="~/Index.aspx"><span class="glyphicon glyphicon-home"></span> Home</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlShop" runat="server" NavigateUrl="#">Shop</asp:HyperLink>
+                            </li>
+                        </ul>
+
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <asp:HyperLink ID="hlContact" runat="server" NavigateUrl="#">Contact Us</asp:HyperLink></li>
+                            <li>
+                                <asp:HyperLink ID="hlRegister" runat="server" NavigateUrl="#">Register</asp:HyperLink></li>
+                            <li>
+                                <asp:HyperLink ID="hlSignIn" runat="server" NavigateUrl="#">Sign In</asp:HyperLink></li>
+                            <li>
+                                <asp:HyperLink ID="hlCart" runat="server" NavigateUrl="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</asp:HyperLink></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <footer class="footer">
+                <div class="container">
+                    <div class="col-md-1">
+                    </div>
+                    <div class="col-md-4">
+                        <h4>About</h4>
+                        <ul class="nav nav-stacked">
+                            <li><a href="#">Early Years</a></li>
+                            <li><a href="#">Present</a></li>
+                            <li><a href="#">The Future</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <h4>Contact Us</h4>
+                        <ul class="nav nav-stacked">
+                            <li><a href="#">Customer Service</a></li>
+                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="#">FAQs</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <h4>Legal</h4>
+                        <ul class="nav nav-stacked">
+                            <li><a href="#">Warrenty</a></li>
+                            <li><a href="#">Shipping and Returns</a></li>
+                            <li><a href="#">Customer Rights</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row bottom">
+                    <div class="container">
+                        <div class="col-md-8">
+                            <span class="col-md-12">© 2014 TOPMEN International Inc. TOPMEN is trademark of Topmen.</span>
+                        </div>
+                        <div class="col-md-4">
+                            <ul class="MediaNav">
+                                <li><a href="#"><img src="/Images/Facebook Square.png" alt="Facebook"/></a></li>
+                                <li><a href="#"><img src="/Images/Twitter square.png" alt="Twitter"/></a></li>
+                                <li><a href="#"><img src="/Images/Google plus square.png" alt="Google Plus"/></a></li>
+                                <li><a href="#"><img src="/Images/Instagram square.png" alt="Instagram"/></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+        <script>
+            $(document).ready(function () {
+                $(".dropdown").hover(
+                    function () {
+                        $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                        $(this).toggleClass('open');
+                    },
+                    function () {
+                        $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                        $(this).toggleClass('open');
+                    }
+                );
+            });
+        </script>
+    </form>
+</body>
+</html>
