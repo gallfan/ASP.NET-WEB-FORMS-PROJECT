@@ -31,7 +31,7 @@
                                 <asp:HyperLink ID="hlIndex" runat="server" NavigateUrl="~/Index.aspx"><span class="glyphicon glyphicon-home"></span> Home</asp:HyperLink>
                             </li>
                             <li>
-                                <asp:HyperLink ID="hlShop" runat="server" NavigateUrl="#">Shop</asp:HyperLink>
+                                <asp:HyperLink ID="hlShop" runat="server" NavigateUrl="~/Products.aspx">Shop</asp:HyperLink>
                             </li>
                         </ul>
 
@@ -39,7 +39,7 @@
                             <li>
                                 <asp:HyperLink ID="hlContact" runat="server" NavigateUrl="#">Contact Us</asp:HyperLink></li>
                             <li>
-                                <asp:HyperLink ID="hlRegister" runat="server" NavigateUrl="#">Register</asp:HyperLink></li>
+                                <asp:HyperLink ID="hlRegister" runat="server" NavigateUrl="Register.aspx">Register</asp:HyperLink></li>
                             <li>
                                 <asp:HyperLink ID="hlSignIn" runat="server" NavigateUrl="#">Sign In</asp:HyperLink></li>
                             <li>
