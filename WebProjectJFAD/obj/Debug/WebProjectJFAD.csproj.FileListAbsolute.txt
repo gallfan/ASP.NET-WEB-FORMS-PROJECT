@@ -20,3 +20,107 @@ E:\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.Migrations.InitialMigr
 E:\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csproj.GenerateResource.Cache
 E:\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
 E:\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+E:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.Migrations.InitialMigration.resources
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csproj.GenerateResource.Cache
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+F:\College\Software Development Year 3\Semester 1\Web Development 3\Web Project Ecommerce Site\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web1\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Fitzpatrick\Desktop\web\Web Prj\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll.config
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Laptop1\Desktop\Web Project_Daniel,\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniel Fitzpatrick\Desktop\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll.config
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Laptop1\Desktop\New folder (2)\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\dkjjjjjj\Web Project_Daniel, Alan,__\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\fsdfsdfs\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan,Francis\Web Project_Daniel, Alan\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\JC\Desktop\JFAD Web Project\Alan_Daniel_Francis_John\Web Project_Daniel, Alan,Francis Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll.config
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\WebProjectJFAD.pdb
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.dll
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.dll
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.xml
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\bin\EntityFramework.SqlServer.xml
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.dll
+C:\Users\Francis\Desktop\ds\Web Project_Daniel, Alan,Francis,John Most Recent\WebProjectJFAD\WebProjectJFAD\obj\Debug\WebProjectJFAD.pdb

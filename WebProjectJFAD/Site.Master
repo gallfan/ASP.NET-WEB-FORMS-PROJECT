@@ -7,8 +7,8 @@
     <title></title>
     <link rel="stylesheet" type="text/css" href="Content/bootstrap2.css" media="screen" />
     <link href="Content/sticky-footer-navbar.css" rel="stylesheet" />
-    <script src="Scripts/jquery-1.9.0.js"></script>
-    <script src="Scripts/bootstrap.js"></script>
+    <link href="Content/Style.css" rel="stylesheet" />
+    <link href="Content/toastr.css" rel="stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
 </head>
 <body>
@@ -17,33 +17,38 @@
             <nav id="nav" class="navbar navbar-default navbar-fixed-top" role="navigation">
                 <div class="container">
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
                         <a class="navbar-brand" href="Index.aspx">TOPMAN</a>
                     </div>
                     <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
                         <ul runat="server" id="NavList" class="nav navbar-nav navbar-left">
                             <li>
-                                <asp:HyperLink ID="hlIndex" runat="server" NavigateUrl="~/Index.aspx"><span class="glyphicon glyphicon-home"></span> Home</asp:HyperLink>
-                            </li>
+                                <asp:HyperLink ID="hlIndex" runat="server" NavigateUrl="~/Index.aspx"><span class="glyphicon glyphicon-home"></span> Home</asp:HyperLink></li>
                             <li>
-                                <asp:HyperLink ID="hlShop" runat="server" NavigateUrl="~/Products.aspx">Shop</asp:HyperLink>
-                            </li>
+                                <asp:HyperLink ID="hlShop" runat="server" NavigateUrl="#">Shop</asp:HyperLink></li>
                         </ul>
 
-                        <ul class="nav navbar-nav navbar-right">
+                        <ul runat="server" id="NavListRight" class="nav navbar-nav navbar-right">
                             <li>
                                 <asp:HyperLink ID="hlContact" runat="server" NavigateUrl="#">Contact Us</asp:HyperLink></li>
                             <li>
+                                <asp:HyperLink ID="hlCart" runat="server" NavigateUrl="~/ShoppingCart.aspx"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</asp:HyperLink></li>
+                            <li>
                                 <asp:HyperLink ID="hlRegister" runat="server" NavigateUrl="Register.aspx">Register</asp:HyperLink></li>
                             <li>
-                                <asp:HyperLink ID="hlSignIn" runat="server" NavigateUrl="#">Sign In</asp:HyperLink></li>
-                            <li>
-                                <asp:HyperLink ID="hlCart" runat="server" NavigateUrl="#"><span class="glyphicon glyphicon-shopping-cart"></span> Cart</asp:HyperLink></li>
+                                <asp:HyperLink ID="hlSignIn" runat="server" NavigateUrl="#" data-toggle="modal" data-target="#myModal">Sign In</asp:HyperLink></li>
+                            <li class="dropdown">
+                                <asp:HyperLink runat="server" ID="SignedInUser" CssClass="dropdown-toggle" NavigateUrl="#" aria-expanded="false" data-toggle="dropdown"> 
+                                    
+                                </asp:HyperLink>
+                                <ul class="dropdown-menu" role="menu" style="display: none;">
+                                    <li>
+                                        <asp:HyperLink runat="server" ID="hlAccountDetails" NavigationUrl="#">Account Details</asp:HyperLink>
+                                    </li>
+                                    <li>
+                                        <asp:Button ID="BtnSignOut" runat="server" OnClick="BtnSignOut_Click" Text="Sign Out" />
+                                    </li>
+                                </ul>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -82,22 +87,74 @@
                 <div class="row bottom">
                     <div class="container">
                         <div class="col-md-8">
-                            <span class="col-md-12">© 2014 TOPMEN International Inc. TOPMEN is trademark of Topmen.</span>
+                            <span class="col-md-12">© 2014 TOPMAN International Inc. TOPMAN is trademark of Topmen.</span>
                         </div>
                         <div class="col-md-4">
                             <ul class="MediaNav">
-                                <li><a href="#"><img src="/Images/Facebook Square.png" alt="Facebook"/></a></li>
-                                <li><a href="#"><img src="/Images/Twitter square.png" alt="Twitter"/></a></li>
-                                <li><a href="#"><img src="/Images/Google plus square.png" alt="Google Plus"/></a></li>
-                                <li><a href="#"><img src="/Images/Instagram square.png" alt="Instagram"/></a></li>
+                                <li><a href="#">
+                                    <img src="/Images/Facebook Square.png" alt="Facebook" /></a></li>
+                                <li><a href="#">
+                                    <img src="/Images/Twitter square.png" alt="Twitter" /></a></li>
+                                <li><a href="#">
+                                    <img src="/Images/Google plus square.png" alt="Google Plus" /></a></li>
+                                <li><a href="#">
+                                    <img src="/Images/Instagram square.png" alt="Instagram" /></a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </footer>
+
+            <div class="modal fade bs-example-modal-sm" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-sm">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                            <h3 class="modal-title" id="myModalLabel">Sign In</h3>
+                        </div>
+                        <div class="modal-body form-horizontal">
+                            <div class="form-group">
+                                <label for="Username" class="col-sm-4 control-label">Username:</label>
+                                <div class="col-sm-8">
+                                    <asp:TextBox runat="server" CssClass="form-control" Placeholder="Username" name="Username" ID="txtUsername"></asp:TextBox>
+                                    <asp:RequiredFieldValidator ID="rfvUsername" runat="server" ErrorMessage="Username is required" ValidationGroup="Master" ControlToValidate="txtUsername" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
+                                    <asp:RegularExpressionValidator ID="revUsername" ValidationGroup="Master" runat="server" ControlToValidate="txtUsername" ErrorMessage="Username length must be between 2 and 50 characters" ValidationExpression="^.{2,50}.*$" ForeColor="Red" Display="Dynamic" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="Password" class="col-sm-4 control-label">Password:</label>
+                                <div class="col-sm-8">
+                                    <asp:TextBox runat="server" CssClass="form-control" Placeholder="Password" name="Password" ID="txtPassword" TextMode="Password"></asp:TextBox>
+                                    <asp:RequiredFieldValidator ID="rfvPassword" runat="server" ErrorMessage="Password is required" ValidationGroup="Master" ControlToValidate="txtPassword" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
+                                    <asp:RegularExpressionValidator ID="revPassword" ValidationGroup="Master" runat="server" ControlToValidate="txtPassword" ErrorMessage="Password length must be between 2 and 50 characters" ValidationExpression="^.{2,50}.*$" ForeColor="Red" Display="Dynamic" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="col-sm-offset-4 col-sm-8">
+                                    <label>
+                                        <asp:CheckBox ID="chkRemember" name="Remember" runat="server" />
+                                        Remember Me</label>
+                                </div>
+                            </div>
+                            <div class="col-sm-offset-1 col-sm-10" style="text-align: center;">
+                                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Register.aspx" Text="Not Registered? Click here to register"></asp:HyperLink>
+                            </div>
+                            <div class="modal-footer">
+                                <asp:Button runat="server" CssClass="btn btn-info btn-sm col-sm-offset-5" Text="Sign In" ID="btnSignIn1" ValidationGroup="Master" OnClick="btnSignIn_Click" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <script src="Scripts/bootstrap.js"></script>
+        <script src="Scripts/toastr.js"></script>
         <script>
-            $(document).ready(function () {
+            $(function () {
                 $(".dropdown").hover(
                     function () {
                         $('.dropdown-menu', this).stop(true, true).slideDown("fast");
@@ -108,7 +165,72 @@
                         $(this).toggleClass('open');
                     }
                 );
+
+                $('.carousel').carousel({
+                    interval: 7000,
+                    pause: "false"
+                });
+
+                $('.hover').hover(
+                function () {
+                    $(this).animate({ opacity: '1' });
+                },
+                function () {
+                    $(this).animate({ opacity: '0' }, function () { $(this).clearQueue(); });
+                }
+                        );
             });
+
+            function Toastr(Message, type, title) {
+                //window.location.replace("Index.aspx");
+                toastr.options = {
+                    "closeButton": true,
+                    "debug": false,
+                    "progressBar": true,
+                    "positionClass": "toast-top-right",
+                    "onclick": null,
+                    "showDuration": "300",
+                    "hideDuration": "1000",
+                    "timeOut": "5000",
+                    "extendedTimeOut": "1000",
+                    "showEasing": "swing",
+                    "hideEasing": "linear",
+                    "showMethod": "fadeIn",
+                    "hideMethod": "fadeOut"
+                }
+                //toastr.success("Welcome Back, " + CustomerName, "Hello");
+                switch (type) {
+                    case "Success":
+                        toastr.success(Message, title);
+                        break;
+                    case "Error":
+                        toastr.error(Message, title);
+                        break;
+                    default:
+                        break;
+                }
+                
+            }
+
+            //function ToastrSignout(CustomerName) {
+            //    toastr.options = {
+            //        "closeButton": true,
+            //        "debug": false,
+            //        "progressBar": true,
+            //        "positionClass": "toast-top-right",
+            //        "onclick": null,
+            //        "showDuration": "300",
+            //        "hideDuration": "1000",
+            //        "timeOut": "5000",
+            //        "extendedTimeOut": "1000",
+            //        "showEasing": "swing",
+            //        "hideEasing": "linear",
+            //        "showMethod": "fadeIn",
+            //        "hideMethod": "fadeOut"
+            //    }
+            //    toastr.error("Come Back Soon, " + CustomerName, "Goodbye");
+            //}
+
         </script>
     </form>
 </body>
